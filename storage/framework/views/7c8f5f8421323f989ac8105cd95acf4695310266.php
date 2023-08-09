@@ -1,1 +1,0 @@
-<?php /**PATH C:\xampp\htdocs\TechWiz4\TechWiz\resources\views/welcome.blade.php ENDPATH**/ ?>
